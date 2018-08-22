@@ -10,7 +10,7 @@ class CreateDogs < ActiveRecord::Migration
   # end
     
   def change
-    create_table :dgos do |t|
+    create_table :dogs do |t|
       t.string :name
       t.string :breed
     end
