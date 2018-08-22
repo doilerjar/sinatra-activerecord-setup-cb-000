@@ -13,7 +13,6 @@ group :development do
 	gem 'shotgun'
 	gem 'pry'
 	gem 'tux'
-	gem 'pry'
 end
     
 group :test do
